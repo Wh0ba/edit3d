@@ -1,0 +1,9 @@
+Package: com.wh0ba.edit3d
+Name: edit3d
+Depends: mobilesubstrate
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Adds the "Rearrange Apps" action to the 3D Touch menu for all apps
+Maintainer: Wh0ba <whappfanr@gmail.com>
+Author: Wh0ba <whappfanr@gmail.com>
+Section: Tweaks
